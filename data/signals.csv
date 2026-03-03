@@ -1,0 +1,501 @@
+event_id,timestamp,department,theme,sentiment_score,severity,signal_type,routed,snippet,category,queue,status,needs_validation,validated
+0,2025-12-01 10:17:43.516255,Sales,Innovation,-0.5559400590234602,3,Suggestion,1,Suggestion about Innovation in Sales,Function,Validation,Closed,True,False
+1,2025-09-29 11:55:42.516294,Product,Tools & Technology,0.15945109234469168,3,Observation,1,Observation about Tools & Technology in Product,Sentiment,Reporting,Open,False,False
+2,2025-05-04 08:05:01.516325,Marketing,Process,0.7311890601730087,5,Praise,0,Praise about Process in Marketing,Sentiment,Reporting,Open,True,False
+3,2025-07-23 06:17:52.516349,Engineering,Performance & Rewards,0.769357483807299,4,Praise,0,Praise about Performance & Rewards in Engineering,Sentiment,Reporting,Open,False,False
+4,2025-03-29 16:31:21.516372,Marketing,Collaboration,0.07123230119332744,1,Suggestion,1,Suggestion about Collaboration in Marketing,Function,People Review,In Process,True,True
+5,2025-04-07 01:09:52.516395,Finance,Leadership & Management,-0.01732609211379965,2,Praise,1,Praise about Leadership & Management in Finance,Sentiment,Reporting,Open,False,False
+6,2025-10-25 23:56:09.516417,Operations,Performance & Rewards,-0.3003193449594025,4,Praise,1,Praise about Performance & Rewards in Operations,Sentiment,Reporting,Open,False,False
+7,2026-01-04 15:54:34.516443,Product,Tools & Technology,-0.1458468748966384,3,Question,0,Question about Tools & Technology in Product,Sentiment,Reporting,Open,False,False
+8,2025-05-22 03:23:24.516466,Product,Capacity,-0.6889696519112413,4,Observation,1,Observation about Capacity in Product,Sentiment,Reporting,Watching,False,False
+9,2026-01-02 11:24:17.516489,Product,Capacity,-0.17655832600353413,2,Praise,1,Praise about Capacity in Product,Sentiment,Reporting,Open,False,False
+10,2025-03-29 07:32:23.516511,Legal,Role Clarity,0.28223211927756786,5,Observation,0,Observation about Role Clarity in Legal,Sentiment,Reporting,Open,True,False
+11,2025-07-04 04:59:43.516532,Legal,Performance & Rewards,0.012750334040674187,1,Praise,1,Praise about Performance & Rewards in Legal,Sentiment,Reporting,Open,False,False
+12,2026-01-04 09:59:45.516554,People,Governance,-0.021768401236748953,1,Praise,0,Praise about Governance in People,Sentiment,Reporting,Open,False,False
+13,2025-10-03 11:11:09.516575,Engineering,Collaboration,-0.1376504551231964,1,Suggestion,1,Suggestion about Collaboration in Engineering,Function,Validation,Closed,True,False
+14,2025-04-20 11:26:58.516596,Finance,Performance & Rewards,-0.41960876161131927,1,Praise,0,Praise about Performance & Rewards in Finance,Sentiment,Reporting,Open,False,False
+15,2025-05-01 17:00:24.516617,Sales,Role Clarity,-0.1546061879256073,5,Suggestion,1,Suggestion about Role Clarity in Sales,Function,Validation,Closed,True,False
+16,2025-05-17 21:29:45.516639,Engineering,Collaboration,-0.518914938257741,3,Question,1,Question about Collaboration in Engineering,Sentiment,Reporting,Watching,False,False
+17,2025-05-13 05:14:20.516660,Sales,Role Clarity,-0.037901872514092716,3,Question,1,Question about Role Clarity in Sales,Sentiment,Reporting,Open,False,False
+18,2025-05-03 07:24:32.516681,Operations,Collaboration,0.04352353411908567,4,Observation,1,Observation about Collaboration in Operations,Sentiment,Reporting,Open,False,False
+19,2025-11-19 23:50:55.516702,Finance,Role Clarity,-0.14950367523293392,5,Suggestion,0,Suggestion about Role Clarity in Finance,Function,People Review,In Process,True,True
+20,2025-03-28 06:11:23.516723,Legal,Role Clarity,-0.4042468014465938,2,Complaint,1,Complaint about Role Clarity in Legal,Sentiment,Reporting,Open,False,False
+21,2025-06-28 12:42:14.516742,Finance,Process,-0.25087852179226827,4,Praise,0,Praise about Process in Finance,Sentiment,Reporting,Open,False,False
+22,2026-02-13 01:48:29.516762,Marketing,Culture,-0.38702146537325194,1,Question,0,Question about Culture in Marketing,Sentiment,Reporting,Open,False,False
+23,2026-02-07 11:00:09.516782,Marketing,Leadership & Management,-0.17988907264599377,4,Observation,1,Observation about Leadership & Management in Marketing,Sentiment,Reporting,Open,False,False
+24,2025-06-03 04:56:10.516802,Marketing,Tools & Technology,-0.6549753436062371,1,Suggestion,0,Suggestion about Tools & Technology in Marketing,Function,Validation,Closed,True,False
+25,2025-07-27 14:12:19.516821,Sales,Culture,1.0,1,Praise,0,Praise about Culture in Sales,Sentiment,Reporting,Open,False,False
+26,2025-11-29 21:45:46.516841,Operations,Innovation,0.40893675610828245,3,Question,0,Question about Innovation in Operations,Sentiment,Reporting,Open,False,False
+27,2025-10-13 17:16:56.516861,People,Culture,-0.5273022347334188,1,Complaint,1,Complaint about Culture in People,Sentiment,Reporting,Open,False,False
+28,2025-05-01 06:28:02.516880,Sales,Learning & Capability,0.6185080364682307,2,Observation,1,Observation about Learning & Capability in Sales,Sentiment,Reporting,Open,False,False
+29,2025-05-20 01:54:25.516900,Marketing,Role Clarity,-0.7132394423627763,4,Suggestion,0,Suggestion about Role Clarity in Marketing,Function,Validation,Open,True,False
+30,2025-03-18 01:38:21.516920,Marketing,Tools & Technology,0.17807991519469005,3,Question,0,Question about Tools & Technology in Marketing,Sentiment,Reporting,Open,False,False
+31,2025-04-15 17:29:09.516940,Marketing,Collaboration,-0.010940437169382507,4,Praise,1,Praise about Collaboration in Marketing,Sentiment,Reporting,Open,False,False
+32,2025-09-09 20:55:46.516960,Operations,Collaboration,-0.2680800500895111,4,Question,1,Question about Collaboration in Operations,Sentiment,Reporting,Open,False,False
+33,2025-09-18 14:31:07.516988,Sales,Capacity,0.5482644282474411,1,Suggestion,0,Suggestion about Capacity in Sales,Function,Validation,Open,True,False
+34,2025-04-18 02:49:42.517008,Operations,Role Clarity,0.9361595586603602,4,Complaint,1,Complaint about Role Clarity in Operations,Sentiment,Reporting,Open,False,False
+35,2026-01-20 11:51:58.517028,Product,Governance,0.19818697003222094,2,Question,0,Question about Governance in Product,Sentiment,Reporting,Open,False,False
+36,2025-07-21 13:54:42.517047,Finance,Learning & Capability,-0.0734726964601864,1,Suggestion,1,Suggestion about Learning & Capability in Finance,Function,People Review,In Process,True,True
+37,2025-11-21 05:50:18.517066,Engineering,Innovation,0.09031148687010994,1,Praise,0,Praise about Innovation in Engineering,Sentiment,Reporting,Open,False,False
+38,2025-07-09 15:23:16.517086,Product,Process,0.4269988932474506,1,Suggestion,1,Suggestion about Process in Product,Function,Policy/Process Review,In Process,True,True
+39,2025-11-28 05:34:51.517105,Legal,Capacity,0.8942969286627312,2,Suggestion,1,Suggestion about Capacity in Legal,Function,People Review,In Process,True,True
+40,2025-12-12 14:42:59.517125,Product,Governance,-0.0024284723255149523,4,Suggestion,1,Suggestion about Governance in Product,Function,Validation,Open,True,False
+41,2025-12-29 00:27:25.517144,Legal,Culture,-0.19166165313295153,3,Observation,1,Observation about Culture in Legal,Sentiment,Reporting,Open,False,False
+42,2026-02-10 03:07:46.517164,Engineering,Capacity,0.65017257399827,1,Observation,0,Observation about Capacity in Engineering,Sentiment,Reporting,Open,False,False
+43,2025-06-24 07:57:50.517183,Engineering,Innovation,-0.6717618820337165,3,Question,0,Question about Innovation in Engineering,Sentiment,Reporting,Watching,False,False
+44,2025-12-08 01:48:55.517202,Product,Learning & Capability,0.16361169318293312,5,Observation,1,Observation about Learning & Capability in Product,Sentiment,Reporting,Open,True,False
+45,2025-04-18 01:11:43.517221,Sales,Collaboration,0.2532876508362659,4,Question,0,Question about Collaboration in Sales,Sentiment,Reporting,Open,False,False
+46,2025-03-21 21:20:08.517240,Finance,Role Clarity,-0.05560199990513454,2,Question,0,Question about Role Clarity in Finance,Sentiment,Reporting,Open,False,False
+47,2026-01-02 11:10:52.517259,Operations,Collaboration,-0.8745347170858068,2,Complaint,0,Complaint about Collaboration in Operations,Sentiment,Reporting,Open,False,False
+48,2025-12-08 03:03:08.517279,Operations,Performance & Rewards,0.43622357883022655,3,Observation,0,Observation about Performance & Rewards in Operations,Sentiment,Reporting,Open,False,False
+49,2025-11-11 14:34:01.517298,Engineering,Capacity,0.5330992720488691,1,Observation,0,Observation about Capacity in Engineering,Sentiment,Reporting,Open,False,False
+50,2025-03-27 20:16:46.517318,People,Innovation,0.2854452553465835,4,Suggestion,0,Suggestion about Innovation in People,Function,Product Review,In Process,True,True
+51,2025-11-16 06:09:20.517337,Operations,Capacity,0.5677828200902995,3,Question,0,Question about Capacity in Operations,Sentiment,Reporting,Open,False,False
+52,2025-04-08 09:53:12.517357,Finance,Process,-0.20726590269494574,4,Complaint,1,Complaint about Process in Finance,Sentiment,Reporting,Open,False,False
+53,2025-09-29 07:58:54.517387,Engineering,Learning & Capability,0.040099356270407296,1,Observation,0,Observation about Learning & Capability in Engineering,Sentiment,Reporting,Open,False,False
+54,2025-08-27 16:28:44.517406,Finance,Role Clarity,1.0,4,Observation,1,Observation about Role Clarity in Finance,Sentiment,Reporting,Open,False,False
+55,2025-03-15 08:08:41.517425,Marketing,Collaboration,0.9217068791602666,1,Suggestion,1,Suggestion about Collaboration in Marketing,Function,Validation,Open,True,False
+56,2025-10-26 01:43:29.517445,Operations,Learning & Capability,0.8906455385131834,1,Complaint,1,Complaint about Learning & Capability in Operations,Sentiment,Reporting,Open,False,False
+57,2025-05-24 09:01:22.517464,Operations,Process,-0.33870783385737835,1,Observation,0,Observation about Process in Operations,Sentiment,Reporting,Open,False,False
+58,2025-10-04 02:20:18.517489,Finance,Role Clarity,-0.3938009551794358,5,Suggestion,0,Suggestion about Role Clarity in Finance,Function,People Review,In Process,True,True
+59,2026-02-06 20:41:59.517508,Engineering,Learning & Capability,0.9618122060726396,1,Observation,0,Observation about Learning & Capability in Engineering,Sentiment,Reporting,Open,False,False
+60,2025-05-04 06:54:47.517529,Sales,Governance,0.34954619092999445,4,Question,1,Question about Governance in Sales,Sentiment,Reporting,Open,False,False
+61,2025-07-30 00:42:46.517549,Sales,Performance & Rewards,0.29994831685550283,2,Observation,1,Observation about Performance & Rewards in Sales,Sentiment,Reporting,Open,False,False
+62,2026-01-14 19:09:22.517569,Sales,Performance & Rewards,0.02925445115342208,1,Observation,1,Observation about Performance & Rewards in Sales,Sentiment,Reporting,Open,False,False
+63,2025-08-24 09:08:02.517588,Legal,Role Clarity,1.0,2,Question,1,Question about Role Clarity in Legal,Sentiment,Reporting,Open,False,False
+64,2026-01-18 16:21:25.517608,Engineering,Innovation,-0.9486884912443289,4,Question,1,Question about Innovation in Engineering,Sentiment,Reporting,Watching,False,False
+65,2025-07-28 08:19:06.517627,Engineering,Learning & Capability,0.6402703808387319,4,Suggestion,1,Suggestion about Learning & Capability in Engineering,Function,People Review,In Process,True,True
+66,2025-04-23 19:20:12.517646,Operations,Culture,0.14049593386751635,1,Complaint,0,Complaint about Culture in Operations,Sentiment,Reporting,Open,False,False
+67,2025-04-16 10:46:46.517666,Operations,Performance & Rewards,-0.31134975991029695,2,Suggestion,0,Suggestion about Performance & Rewards in Operations,Function,People Review,In Process,True,True
+68,2025-04-06 20:49:15.517685,Operations,Learning & Capability,0.2647177558269014,4,Question,1,Question about Learning & Capability in Operations,Sentiment,Reporting,Open,False,False
+69,2025-12-02 20:14:45.517704,Product,Performance & Rewards,-0.09194586886401018,5,Question,1,Question about Performance & Rewards in Product,Sentiment,Reporting,Open,True,False
+70,2025-04-11 04:00:31.517723,People,Collaboration,-0.893835805965891,5,Praise,1,Praise about Collaboration in People,Sentiment,Reporting,Watching,True,False
+71,2025-07-29 20:21:23.517742,Sales,Leadership & Management,-0.6102850521409272,3,Question,0,Question about Leadership & Management in Sales,Sentiment,Reporting,Watching,False,False
+72,2025-07-27 05:55:42.517761,Marketing,Innovation,-0.2615940467935549,3,Suggestion,0,Suggestion about Innovation in Marketing,Function,Product Review,In Process,True,True
+73,2025-08-28 14:17:18.517780,Finance,Leadership & Management,0.4745714938904992,3,Praise,0,Praise about Leadership & Management in Finance,Sentiment,Reporting,Open,False,False
+74,2025-03-25 16:29:31.517799,Marketing,Innovation,0.9561588199199853,5,Observation,0,Observation about Innovation in Marketing,Sentiment,Reporting,Open,True,False
+75,2025-03-01 03:43:30.517818,Product,Culture,0.532613541273459,5,Praise,1,Praise about Culture in Product,Sentiment,Reporting,Open,True,False
+76,2026-02-02 13:03:43.517838,People,Role Clarity,-0.0061233864234573115,2,Observation,1,Observation about Role Clarity in People,Sentiment,Reporting,Open,False,False
+77,2025-04-18 21:18:04.517857,Engineering,Culture,-0.44862718574291577,2,Praise,1,Praise about Culture in Engineering,Sentiment,Reporting,Open,False,False
+78,2025-08-06 02:54:15.517877,Product,Governance,-0.2166517034512801,2,Suggestion,1,Suggestion about Governance in Product,Function,Validation,Closed,True,False
+79,2025-03-13 18:11:18.517896,Finance,Learning & Capability,0.10191136376373355,3,Observation,0,Observation about Learning & Capability in Finance,Sentiment,Reporting,Open,False,False
+80,2025-06-23 12:53:01.517916,People,Role Clarity,-0.359222110626218,5,Praise,1,Praise about Role Clarity in People,Sentiment,Reporting,Open,True,False
+81,2026-01-29 03:15:16.517935,Operations,Performance & Rewards,-0.10672357585592362,3,Suggestion,0,Suggestion about Performance & Rewards in Operations,Function,People Review,In Process,True,True
+82,2025-08-01 12:46:38.517954,Product,Performance & Rewards,0.4259722337823424,1,Question,1,Question about Performance & Rewards in Product,Sentiment,Reporting,Open,False,False
+83,2025-10-30 01:37:55.517973,Marketing,Leadership & Management,0.384169727152502,4,Question,0,Question about Leadership & Management in Marketing,Sentiment,Reporting,Open,False,False
+84,2026-02-08 19:23:33.517992,Marketing,Learning & Capability,0.034826332259439534,3,Praise,0,Praise about Learning & Capability in Marketing,Sentiment,Reporting,Open,False,False
+85,2025-12-15 17:53:07.518011,Engineering,Innovation,0.49175215317923254,1,Complaint,0,Complaint about Innovation in Engineering,Sentiment,Reporting,Open,False,False
+86,2025-11-07 08:07:14.518031,Marketing,Governance,0.6002057742066991,1,Suggestion,0,Suggestion about Governance in Marketing,Function,Validation,Open,True,False
+87,2025-12-03 02:37:00.518050,Legal,Tools & Technology,0.9080438951219074,4,Praise,0,Praise about Tools & Technology in Legal,Sentiment,Reporting,Open,False,False
+88,2025-12-04 11:18:19.518069,Product,Innovation,-1.0,2,Praise,0,Praise about Innovation in Product,Sentiment,Reporting,Open,False,False
+89,2025-05-02 05:48:22.518088,Product,Culture,-0.2628775108403805,1,Question,0,Question about Culture in Product,Sentiment,Reporting,Open,False,False
+90,2026-01-25 08:56:36.518108,Finance,Collaboration,0.3709815082647326,2,Complaint,1,Complaint about Collaboration in Finance,Sentiment,Reporting,Open,False,False
+91,2025-04-13 03:42:57.518127,Engineering,Learning & Capability,0.7383293127148145,1,Question,1,Question about Learning & Capability in Engineering,Sentiment,Reporting,Open,False,False
+92,2025-04-18 03:56:35.518157,People,Culture,-0.856567264545439,3,Suggestion,1,Suggestion about Culture in People,Function,People Review,In Process,True,True
+93,2025-11-04 17:34:01.518177,Operations,Leadership & Management,0.6769361870827066,3,Question,0,Question about Leadership & Management in Operations,Sentiment,Reporting,Open,False,False
+94,2026-02-23 01:08:07.518196,Marketing,Governance,0.8194299931869765,3,Observation,1,Observation about Governance in Marketing,Sentiment,Reporting,Open,False,False
+95,2025-06-02 07:49:47.518215,Operations,Performance & Rewards,0.11261767640280179,3,Question,0,Question about Performance & Rewards in Operations,Sentiment,Reporting,Open,False,False
+96,2025-02-27 22:23:48.518234,Marketing,Governance,0.06014781585594943,1,Question,1,Question about Governance in Marketing,Sentiment,Reporting,Open,False,False
+97,2026-01-25 14:18:48.518253,Product,Tools & Technology,0.2572194170293745,2,Complaint,1,Complaint about Tools & Technology in Product,Sentiment,Reporting,Open,False,False
+98,2025-07-13 20:02:21.518272,Engineering,Culture,0.46853626015758915,4,Observation,0,Observation about Culture in Engineering,Sentiment,Reporting,Open,False,False
+99,2025-03-16 14:54:21.518291,People,Governance,-0.28466306527438884,5,Observation,1,Observation about Governance in People,Sentiment,Reporting,Open,True,False
+100,2025-10-08 20:01:10.518310,Engineering,Role Clarity,0.5292122434247939,3,Suggestion,1,Suggestion about Role Clarity in Engineering,Function,Validation,Open,True,False
+101,2025-03-07 01:22:04.518329,People,Process,-0.8793697432115571,1,Praise,0,Praise about Process in People,Sentiment,Reporting,Open,False,False
+102,2025-08-18 08:44:36.518348,Engineering,Governance,-0.007359129317468332,4,Praise,1,Praise about Governance in Engineering,Sentiment,Reporting,Open,False,False
+103,2025-05-13 16:06:21.518367,Marketing,Learning & Capability,0.3982027148481633,2,Observation,0,Observation about Learning & Capability in Marketing,Sentiment,Reporting,Open,False,False
+104,2025-11-12 22:30:45.518386,Legal,Culture,0.18329912304842413,4,Question,1,Question about Culture in Legal,Sentiment,Reporting,Open,False,False
+105,2025-05-11 08:16:39.518406,Engineering,Capacity,-0.4699398931636776,5,Complaint,0,Complaint about Capacity in Engineering,Sentiment,Reporting,Watching,True,False
+106,2025-10-05 00:46:22.518425,Finance,Capacity,-0.4077495366442443,5,Question,1,Question about Capacity in Finance,Sentiment,Reporting,Watching,True,False
+107,2025-03-11 06:37:15.518449,Operations,Capacity,-0.27951274661692843,1,Complaint,1,Complaint about Capacity in Operations,Sentiment,Reporting,Open,False,False
+108,2025-04-23 05:21:58.518469,Operations,Leadership & Management,0.9821264834974499,3,Observation,0,Observation about Leadership & Management in Operations,Sentiment,Reporting,Open,False,False
+109,2026-01-02 06:41:37.518490,People,Tools & Technology,-0.09861083542676188,1,Suggestion,0,Suggestion about Tools & Technology in People,Function,Validation,Closed,True,False
+110,2026-02-15 12:14:05.518511,Sales,Tools & Technology,1.0,2,Observation,0,Observation about Tools & Technology in Sales,Sentiment,Reporting,Open,False,False
+111,2025-12-02 17:11:27.518530,Legal,Collaboration,-0.15536213230859688,3,Suggestion,1,Suggestion about Collaboration in Legal,Function,Validation,Open,True,False
+112,2025-05-10 16:42:33.518549,Operations,Performance & Rewards,-0.584884216912545,1,Observation,0,Observation about Performance & Rewards in Operations,Sentiment,Reporting,Open,False,False
+113,2026-02-09 07:25:19.518568,People,Governance,-0.8295457941938283,2,Praise,0,Praise about Governance in People,Sentiment,Reporting,Open,False,False
+114,2025-12-14 23:54:41.518588,Product,Leadership & Management,0.5276654982732073,5,Complaint,0,Complaint about Leadership & Management in Product,Sentiment,Reporting,Open,True,False
+115,2025-07-02 10:18:35.518607,Marketing,Capacity,0.3268171306676619,1,Praise,0,Praise about Capacity in Marketing,Sentiment,Reporting,Open,False,False
+116,2025-09-24 06:16:23.518626,Finance,Process,0.11299863704701485,3,Suggestion,1,Suggestion about Process in Finance,Function,Policy/Process Review,In Process,True,True
+117,2025-09-02 06:50:49.518646,People,Governance,0.419873718948857,5,Observation,0,Observation about Governance in People,Sentiment,Reporting,Open,True,False
+118,2025-06-10 00:49:37.518665,Legal,Innovation,0.3987421022391574,1,Suggestion,1,Suggestion about Innovation in Legal,Function,Product Review,In Process,True,True
+119,2025-06-03 22:16:55.518684,Engineering,Tools & Technology,0.07260203014272912,2,Suggestion,1,Suggestion about Tools & Technology in Engineering,Function,Product Review,In Process,True,True
+120,2025-11-25 08:59:45.518703,Marketing,Performance & Rewards,-0.38162957827125843,1,Praise,0,Praise about Performance & Rewards in Marketing,Sentiment,Reporting,Open,False,False
+121,2025-03-15 06:07:27.518722,People,Performance & Rewards,-0.9024410503322595,5,Suggestion,1,Suggestion about Performance & Rewards in People,Function,People Review,In Process,True,True
+122,2025-12-01 12:13:50.518741,Engineering,Collaboration,-0.07427570250352472,2,Observation,0,Observation about Collaboration in Engineering,Sentiment,Reporting,Open,False,False
+123,2025-05-28 02:25:59.518760,Operations,Tools & Technology,-0.20373006881763264,2,Praise,0,Praise about Tools & Technology in Operations,Sentiment,Reporting,Open,False,False
+124,2025-09-03 02:53:02.518779,People,Governance,-0.035837018278718526,3,Question,1,Question about Governance in People,Sentiment,Reporting,Open,False,False
+125,2025-05-14 16:43:10.518798,Product,Capacity,-0.511909259744527,5,Suggestion,1,Suggestion about Capacity in Product,Function,Validation,Open,True,False
+126,2026-01-01 07:24:43.518817,Engineering,Collaboration,0.09175591154386775,4,Observation,0,Observation about Collaboration in Engineering,Sentiment,Reporting,Open,False,False
+127,2025-04-24 06:33:49.518836,Finance,Collaboration,0.17657881161133285,5,Observation,1,Observation about Collaboration in Finance,Sentiment,Reporting,Open,True,False
+128,2026-01-22 17:57:46.518855,Marketing,Performance & Rewards,-0.1370221786155147,2,Question,1,Question about Performance & Rewards in Marketing,Sentiment,Reporting,Open,False,False
+129,2025-11-23 09:20:41.518875,Sales,Tools & Technology,0.3040569456091667,3,Observation,0,Observation about Tools & Technology in Sales,Sentiment,Reporting,Open,False,False
+130,2026-02-12 08:21:25.518894,Sales,Governance,0.16346368688208132,2,Observation,1,Observation about Governance in Sales,Sentiment,Reporting,Open,False,False
+131,2026-01-13 23:21:54.518913,Sales,Collaboration,-0.10955026440443212,3,Suggestion,0,Suggestion about Collaboration in Sales,Function,Validation,Closed,True,False
+132,2026-02-11 13:20:51.518932,Product,Governance,0.4829610039797951,4,Observation,0,Observation about Governance in Product,Sentiment,Reporting,Open,False,False
+133,2025-08-01 06:56:20.518951,Finance,Learning & Capability,0.041027435576398874,3,Question,0,Question about Learning & Capability in Finance,Sentiment,Reporting,Open,False,False
+134,2025-06-25 22:34:46.518970,Operations,Learning & Capability,-0.17376336688647745,5,Praise,1,Praise about Learning & Capability in Operations,Sentiment,Reporting,Open,True,False
+135,2025-08-19 23:30:38.518989,Legal,Tools & Technology,0.4145693422926341,5,Observation,0,Observation about Tools & Technology in Legal,Sentiment,Reporting,Open,True,False
+136,2025-11-16 07:19:09.519013,Finance,Capacity,0.013632352409439257,4,Praise,1,Praise about Capacity in Finance,Sentiment,Reporting,Open,False,False
+137,2025-04-07 01:28:56.519032,Finance,Innovation,-0.06755015395746868,3,Complaint,0,Complaint about Innovation in Finance,Sentiment,Reporting,Open,False,False
+138,2025-12-16 14:15:44.519052,Legal,Role Clarity,0.3271828281770289,4,Complaint,1,Complaint about Role Clarity in Legal,Sentiment,Reporting,Open,False,False
+139,2025-03-31 04:27:42.519071,Operations,Leadership & Management,-0.027792335455227534,1,Praise,1,Praise about Leadership & Management in Operations,Sentiment,Reporting,Open,False,False
+140,2025-06-09 17:29:19.519090,Product,Innovation,0.6024853236503742,2,Question,1,Question about Innovation in Product,Sentiment,Reporting,Open,False,False
+141,2025-09-06 21:34:56.519109,Marketing,Tools & Technology,0.33621250944754655,1,Suggestion,1,Suggestion about Tools & Technology in Marketing,Function,Validation,Open,True,False
+142,2025-08-05 14:07:05.519128,Finance,Learning & Capability,-0.20122555431341874,1,Question,1,Question about Learning & Capability in Finance,Sentiment,Reporting,Open,False,False
+143,2025-06-28 21:29:00.519149,Engineering,Tools & Technology,-0.21456901753379531,5,Question,1,Question about Tools & Technology in Engineering,Sentiment,Reporting,Open,True,False
+144,2025-09-27 08:26:21.519170,Product,Leadership & Management,0.42612324451513406,3,Complaint,1,Complaint about Leadership & Management in Product,Sentiment,Reporting,Open,False,False
+145,2026-01-15 22:57:17.519189,Operations,Culture,-1.0,1,Suggestion,0,Suggestion about Culture in Operations,Function,People Review,In Process,True,True
+146,2025-06-29 07:41:05.519208,Engineering,Process,-0.0033267273156186734,5,Question,0,Question about Process in Engineering,Sentiment,Reporting,Open,True,False
+147,2025-12-30 03:06:01.519227,Engineering,Process,-0.6595725226009724,2,Praise,0,Praise about Process in Engineering,Sentiment,Reporting,Open,False,False
+148,2025-07-12 02:57:29.519246,People,Innovation,1.0,4,Observation,0,Observation about Innovation in People,Sentiment,Reporting,Open,False,False
+149,2025-12-04 01:59:44.519265,People,Role Clarity,-0.8146513052771261,3,Suggestion,1,Suggestion about Role Clarity in People,Function,People Review,In Process,True,True
+150,2025-08-01 01:07:17.519284,Legal,Governance,-0.016376635107999193,3,Complaint,0,Complaint about Governance in Legal,Sentiment,Reporting,Open,False,False
+151,2025-10-24 16:34:56.519303,Sales,Capacity,-0.2717123855668825,2,Praise,1,Praise about Capacity in Sales,Sentiment,Reporting,Open,False,False
+152,2025-11-08 08:47:24.519325,Marketing,Collaboration,-0.17134379704017438,5,Suggestion,0,Suggestion about Collaboration in Marketing,Function,People Review,In Process,True,True
+153,2025-09-06 07:38:26.519345,Engineering,Capacity,-0.18572043299789573,4,Question,0,Question about Capacity in Engineering,Sentiment,Reporting,Open,False,False
+154,2025-05-02 10:31:54.519364,Operations,Role Clarity,-0.044610587796834515,3,Suggestion,1,Suggestion about Role Clarity in Operations,Function,People Review,In Process,True,True
+155,2025-06-07 23:33:02.519383,Marketing,Leadership & Management,0.014991817263578719,5,Suggestion,1,Suggestion about Leadership & Management in Marketing,Function,People Review,In Process,True,True
+156,2025-03-21 13:50:00.519402,Sales,Tools & Technology,-0.12016269907906743,3,Praise,1,Praise about Tools & Technology in Sales,Sentiment,Reporting,Open,False,False
+157,2025-10-21 13:11:05.519421,Finance,Role Clarity,-0.18741040377479862,2,Complaint,0,Complaint about Role Clarity in Finance,Sentiment,Reporting,Open,False,False
+158,2025-05-17 22:42:04.519440,Finance,Collaboration,0.6836851273609968,1,Observation,0,Observation about Collaboration in Finance,Sentiment,Reporting,Open,False,False
+159,2025-05-09 13:19:51.519459,Sales,Capacity,0.47912691307628547,3,Praise,1,Praise about Capacity in Sales,Sentiment,Reporting,Open,False,False
+160,2026-02-24 18:50:18.519478,Marketing,Leadership & Management,-0.8767347081253314,4,Complaint,1,Complaint about Leadership & Management in Marketing,Sentiment,Reporting,Watching,False,False
+161,2025-10-15 18:40:35.519498,People,Performance & Rewards,-0.27246111747945434,3,Question,1,Question about Performance & Rewards in People,Sentiment,Reporting,Open,False,False
+162,2026-02-23 13:38:52.519517,Marketing,Leadership & Management,1.0,1,Suggestion,1,Suggestion about Leadership & Management in Marketing,Function,People Review,In Process,True,True
+163,2026-01-02 06:31:46.519536,Operations,Capacity,0.3361286422068861,5,Suggestion,1,Suggestion about Capacity in Operations,Function,People Review,In Process,True,True
+164,2025-05-18 05:42:36.519555,Finance,Performance & Rewards,-0.8147964929881636,1,Observation,1,Observation about Performance & Rewards in Finance,Sentiment,Reporting,Open,False,False
+165,2025-12-15 17:31:25.519574,Product,Role Clarity,0.2759318276547504,5,Complaint,0,Complaint about Role Clarity in Product,Sentiment,Reporting,Open,True,False
+166,2025-07-25 02:18:04.519593,People,Process,-0.4532893365095203,5,Question,1,Question about Process in People,Sentiment,Reporting,Watching,True,False
+167,2025-08-09 13:08:28.519612,Finance,Governance,0.4222211755146843,2,Observation,0,Observation about Governance in Finance,Sentiment,Reporting,Open,False,False
+168,2025-08-03 00:44:28.519631,Marketing,Capacity,0.2588295102345615,3,Observation,1,Observation about Capacity in Marketing,Sentiment,Reporting,Open,False,False
+169,2025-03-13 13:48:51.519650,Finance,Learning & Capability,-0.3628719065767328,3,Suggestion,0,Suggestion about Learning & Capability in Finance,Function,Validation,Closed,True,False
+170,2025-04-06 15:41:53.519669,Engineering,Role Clarity,0.2705009363018145,5,Question,0,Question about Role Clarity in Engineering,Sentiment,Reporting,Open,True,False
+171,2025-09-22 14:13:36.519688,Product,Collaboration,0.06646809261134548,3,Praise,0,Praise about Collaboration in Product,Sentiment,Reporting,Open,False,False
+172,2025-05-18 16:59:15.519707,Engineering,Culture,0.5746366631428379,5,Question,0,Question about Culture in Engineering,Sentiment,Reporting,Open,True,False
+173,2026-01-18 19:00:59.519727,People,Leadership & Management,-0.3515882125629437,5,Suggestion,1,Suggestion about Leadership & Management in People,Function,People Review,In Process,True,True
+174,2025-09-28 06:44:04.519746,Sales,Collaboration,0.24986881005605524,4,Suggestion,0,Suggestion about Collaboration in Sales,Function,Validation,Open,True,False
+175,2025-04-25 14:15:31.519765,Product,Collaboration,0.2662975546852756,5,Praise,1,Praise about Collaboration in Product,Sentiment,Reporting,Open,True,False
+176,2025-05-31 00:08:07.519783,Finance,Governance,-0.03721671455002314,4,Suggestion,1,Suggestion about Governance in Finance,Function,Validation,Open,True,False
+177,2025-12-24 02:41:34.519802,People,Role Clarity,0.310336048775339,5,Question,1,Question about Role Clarity in People,Sentiment,Reporting,Open,True,False
+178,2025-12-17 12:07:54.519821,Sales,Culture,0.40924236731926983,5,Question,0,Question about Culture in Sales,Sentiment,Reporting,Open,True,False
+179,2025-03-08 13:33:58.519840,Operations,Culture,0.06692382712299993,5,Complaint,1,Complaint about Culture in Operations,Sentiment,Reporting,Open,True,False
+180,2025-10-08 12:45:51.519859,Sales,Collaboration,0.46914190298799885,1,Suggestion,1,Suggestion about Collaboration in Sales,Function,People Review,In Process,True,True
+181,2025-12-22 23:04:41.519878,Operations,Collaboration,-0.25802236410868695,5,Suggestion,0,Suggestion about Collaboration in Operations,Function,Validation,Open,True,False
+182,2025-10-10 16:55:15.519897,Sales,Role Clarity,0.20628519832206124,5,Question,1,Question about Role Clarity in Sales,Sentiment,Reporting,Open,True,False
+183,2025-07-21 14:11:08.519916,Legal,Performance & Rewards,-0.9648422981570787,4,Complaint,0,Complaint about Performance & Rewards in Legal,Sentiment,Reporting,Watching,False,False
+184,2026-02-07 22:33:42.519935,Operations,Culture,0.04114199463771209,3,Suggestion,1,Suggestion about Culture in Operations,Function,Validation,Open,True,False
+185,2025-07-07 17:07:46.519954,Finance,Governance,0.5327401875326756,5,Observation,1,Observation about Governance in Finance,Sentiment,Reporting,Open,True,False
+186,2025-08-12 05:09:23.519972,Legal,Leadership & Management,-0.2227512607003859,4,Observation,1,Observation about Leadership & Management in Legal,Sentiment,Reporting,Open,False,False
+187,2025-08-03 11:58:47.519991,Engineering,Tools & Technology,0.7266922385588505,2,Praise,1,Praise about Tools & Technology in Engineering,Sentiment,Reporting,Open,False,False
+188,2025-04-23 06:13:11.520010,People,Governance,-0.12253480915816815,4,Praise,1,Praise about Governance in People,Sentiment,Reporting,Open,False,False
+189,2025-09-19 14:07:06.520029,Finance,Learning & Capability,-0.44157862254823843,3,Praise,1,Praise about Learning & Capability in Finance,Sentiment,Reporting,Watching,False,False
+190,2025-08-02 02:12:42.520048,Sales,Tools & Technology,1.0,1,Praise,0,Praise about Tools & Technology in Sales,Sentiment,Reporting,Open,False,False
+191,2025-09-19 01:00:12.520067,Product,Process,-0.33194845677333285,5,Suggestion,1,Suggestion about Process in Product,Function,Policy/Process Review,In Process,True,True
+192,2025-09-08 11:19:51.520086,Engineering,Capacity,-0.20793367070589222,2,Suggestion,1,Suggestion about Capacity in Engineering,Function,People Review,In Process,True,True
+193,2025-07-12 02:15:40.520104,Finance,Process,-0.0520248783998183,1,Question,1,Question about Process in Finance,Sentiment,Reporting,Open,False,False
+194,2025-12-06 17:54:00.520123,People,Culture,0.7102521239949274,1,Suggestion,1,Suggestion about Culture in People,Function,Validation,Open,True,False
+195,2025-06-04 08:35:44.520151,Finance,Tools & Technology,-0.28537314687473814,5,Question,1,Question about Tools & Technology in Finance,Sentiment,Reporting,Open,True,False
+196,2025-11-18 00:49:25.520170,Finance,Capacity,-1.0,3,Praise,1,Praise about Capacity in Finance,Sentiment,Reporting,Watching,False,False
+197,2026-01-31 02:50:34.520191,People,Capacity,-0.43918559354639214,4,Complaint,1,Complaint about Capacity in People,Sentiment,Reporting,Watching,False,False
+198,2025-08-29 05:01:32.520210,People,Learning & Capability,-0.4530178972511374,4,Suggestion,1,Suggestion about Learning & Capability in People,Function,People Review,In Process,True,True
+199,2025-09-06 11:54:22.520230,Operations,Process,0.4874251423480651,5,Praise,0,Praise about Process in Operations,Sentiment,Reporting,Open,True,False
+200,2025-11-08 06:39:27.520249,Finance,Governance,0.45374738420862787,3,Complaint,1,Complaint about Governance in Finance,Sentiment,Reporting,Open,False,False
+201,2025-03-04 04:05:33.520269,Finance,Governance,0.017947274883849867,3,Praise,1,Praise about Governance in Finance,Sentiment,Reporting,Open,False,False
+202,2025-08-28 17:05:49.520288,Legal,Leadership & Management,-0.58444813287086,5,Complaint,0,Complaint about Leadership & Management in Legal,Sentiment,Reporting,Watching,True,False
+203,2025-10-10 04:17:15.520307,Marketing,Role Clarity,-0.37125717542847037,5,Suggestion,1,Suggestion about Role Clarity in Marketing,Function,People Review,In Process,True,True
+204,2026-01-22 17:36:31.520326,Engineering,Role Clarity,0.1148139650818268,2,Praise,1,Praise about Role Clarity in Engineering,Sentiment,Reporting,Open,False,False
+205,2025-10-14 17:02:59.520346,Finance,Role Clarity,-0.07623567755254823,2,Observation,1,Observation about Role Clarity in Finance,Sentiment,Reporting,Open,False,False
+206,2025-06-10 21:46:13.520365,People,Governance,-0.14155450061762678,5,Suggestion,0,Suggestion about Governance in People,Function,Policy/Process Review,In Process,True,True
+207,2025-12-18 21:07:29.520384,Marketing,Role Clarity,-0.44101367060371416,2,Question,1,Question about Role Clarity in Marketing,Sentiment,Reporting,Open,False,False
+208,2025-11-24 15:18:59.520403,Product,Learning & Capability,-0.22321680727526413,3,Question,1,Question about Learning & Capability in Product,Sentiment,Reporting,Open,False,False
+209,2025-04-10 05:27:00.520422,Operations,Process,0.09704499644915379,1,Complaint,0,Complaint about Process in Operations,Sentiment,Reporting,Open,False,False
+210,2025-08-09 19:07:04.520441,Operations,Innovation,0.5518334712629025,4,Observation,0,Observation about Innovation in Operations,Sentiment,Reporting,Open,False,False
+211,2025-07-10 12:01:56.520460,Sales,Collaboration,0.8627081375277329,3,Complaint,0,Complaint about Collaboration in Sales,Sentiment,Reporting,Open,False,False
+212,2025-09-14 04:30:42.520479,Marketing,Capacity,-0.6149346891204073,5,Observation,0,Observation about Capacity in Marketing,Sentiment,Reporting,Watching,True,False
+213,2025-06-21 03:47:28.520498,Operations,Innovation,-0.08887016074370298,3,Suggestion,1,Suggestion about Innovation in Operations,Function,Validation,Open,True,False
+214,2025-06-20 06:49:09.520519,Product,Tools & Technology,0.3251005889793305,5,Suggestion,1,Suggestion about Tools & Technology in Product,Function,Validation,Open,True,False
+215,2025-08-18 13:40:30.520538,People,Learning & Capability,-0.049587931889691454,3,Suggestion,1,Suggestion about Learning & Capability in People,Function,Validation,Open,True,False
+216,2025-12-14 01:48:48.520557,Marketing,Capacity,-0.6257697120952221,4,Suggestion,1,Suggestion about Capacity in Marketing,Function,Validation,Open,True,False
+217,2025-03-27 03:11:41.520576,People,Governance,0.7218823020366298,5,Observation,0,Observation about Governance in People,Sentiment,Reporting,Open,True,False
+218,2026-01-19 15:35:40.520596,Marketing,Capacity,0.32136137993377195,4,Observation,1,Observation about Capacity in Marketing,Sentiment,Reporting,Open,False,False
+219,2025-11-19 22:31:02.520615,Engineering,Innovation,0.6645762650662157,1,Question,1,Question about Innovation in Engineering,Sentiment,Reporting,Open,False,False
+220,2025-08-22 19:08:10.520633,Product,Leadership & Management,-0.020078975322171705,5,Observation,1,Observation about Leadership & Management in Product,Sentiment,Reporting,Open,True,False
+221,2025-10-29 10:40:36.520652,Engineering,Governance,-0.7153875510590241,5,Complaint,1,Complaint about Governance in Engineering,Sentiment,Reporting,Watching,True,False
+222,2025-03-26 12:30:18.520671,Marketing,Process,0.5117607612328301,1,Praise,1,Praise about Process in Marketing,Sentiment,Reporting,Open,False,False
+223,2025-06-20 13:59:39.520690,Engineering,Process,-0.5468144730316975,3,Question,0,Question about Process in Engineering,Sentiment,Reporting,Watching,False,False
+224,2025-06-10 14:14:44.520709,Marketing,Process,0.7516991508835753,2,Complaint,0,Complaint about Process in Marketing,Sentiment,Reporting,Open,False,False
+225,2025-09-23 17:25:51.520728,People,Governance,0.4386811452878357,1,Observation,0,Observation about Governance in People,Sentiment,Reporting,Open,False,False
+226,2025-10-25 08:26:28.520747,Product,Performance & Rewards,-0.5008100049474578,2,Complaint,1,Complaint about Performance & Rewards in Product,Sentiment,Reporting,Open,False,False
+227,2026-02-11 10:50:55.520766,Operations,Role Clarity,-0.14055014644297745,4,Question,1,Question about Role Clarity in Operations,Sentiment,Reporting,Open,False,False
+228,2025-08-02 10:12:20.520786,Engineering,Culture,0.029815184960087063,2,Praise,1,Praise about Culture in Engineering,Sentiment,Reporting,Open,False,False
+229,2025-04-03 12:38:46.520805,Product,Innovation,-0.32346838885278695,3,Suggestion,1,Suggestion about Innovation in Product,Function,Product Review,In Process,True,True
+230,2025-08-20 02:23:25.520824,Marketing,Performance & Rewards,-0.05041149509260395,1,Praise,1,Praise about Performance & Rewards in Marketing,Sentiment,Reporting,Open,False,False
+231,2025-10-13 08:06:23.520843,Operations,Process,0.7492824194325399,4,Praise,0,Praise about Process in Operations,Sentiment,Reporting,Open,False,False
+232,2025-06-29 01:02:01.520862,Engineering,Performance & Rewards,-0.17671337186799801,5,Observation,1,Observation about Performance & Rewards in Engineering,Sentiment,Reporting,Open,True,False
+233,2025-10-24 17:51:33.520881,Legal,Collaboration,-1.0,4,Complaint,0,Complaint about Collaboration in Legal,Sentiment,Reporting,Watching,False,False
+234,2026-02-20 12:37:37.520900,Marketing,Learning & Capability,-0.563913610250653,3,Observation,0,Observation about Learning & Capability in Marketing,Sentiment,Reporting,Watching,False,False
+235,2025-03-29 00:27:29.520919,Sales,Governance,0.28213869401336816,4,Question,1,Question about Governance in Sales,Sentiment,Reporting,Open,False,False
+236,2025-09-25 12:56:36.520938,Operations,Tools & Technology,-0.9321657641545473,4,Praise,1,Praise about Tools & Technology in Operations,Sentiment,Reporting,Watching,False,False
+237,2025-10-27 22:59:00.520957,People,Collaboration,-0.4508003730177862,1,Praise,0,Praise about Collaboration in People,Sentiment,Reporting,Open,False,False
+238,2025-04-19 07:10:13.520976,Legal,Innovation,-0.8164761402709917,3,Complaint,1,Complaint about Innovation in Legal,Sentiment,Reporting,Watching,False,False
+239,2025-10-27 19:45:30.520995,Finance,Capacity,-0.2863842122742629,5,Question,0,Question about Capacity in Finance,Sentiment,Reporting,Open,True,False
+240,2025-03-03 08:35:11.521014,Product,Role Clarity,-0.6927925432413443,2,Observation,1,Observation about Role Clarity in Product,Sentiment,Reporting,Open,False,False
+241,2026-02-10 01:54:18.521044,People,Process,0.7221557918561724,4,Observation,1,Observation about Process in People,Sentiment,Reporting,Open,False,False
+242,2025-03-29 02:41:50.521064,Sales,Leadership & Management,-0.3428687933941723,1,Suggestion,0,Suggestion about Leadership & Management in Sales,Function,People Review,In Process,True,True
+243,2025-02-28 15:17:14.521084,Operations,Collaboration,0.1377624387342656,5,Observation,0,Observation about Collaboration in Operations,Sentiment,Reporting,Open,True,False
+244,2025-12-06 23:40:16.521103,Product,Tools & Technology,-0.7031423142916411,3,Complaint,0,Complaint about Tools & Technology in Product,Sentiment,Reporting,Watching,False,False
+245,2025-11-08 22:59:07.521122,Legal,Performance & Rewards,-0.2763139974531007,5,Complaint,1,Complaint about Performance & Rewards in Legal,Sentiment,Reporting,Open,True,False
+246,2025-08-22 16:07:02.521141,People,Learning & Capability,0.3244621052534978,1,Question,0,Question about Learning & Capability in People,Sentiment,Reporting,Open,False,False
+247,2025-06-19 07:22:06.521160,Product,Leadership & Management,-0.6959981685940051,3,Observation,0,Observation about Leadership & Management in Product,Sentiment,Reporting,Watching,False,False
+248,2025-07-22 21:40:54.521179,Finance,Governance,0.19096772611577667,4,Praise,1,Praise about Governance in Finance,Sentiment,Reporting,Open,False,False
+249,2025-03-12 20:05:03.521198,Operations,Capacity,0.21502082359553482,1,Observation,1,Observation about Capacity in Operations,Sentiment,Reporting,Open,False,False
+250,2026-01-18 06:07:01.521217,People,Role Clarity,-0.3119350980050604,3,Observation,0,Observation about Role Clarity in People,Sentiment,Reporting,Open,False,False
+251,2026-01-05 01:24:29.521236,Marketing,Performance & Rewards,-0.26836927012075484,4,Observation,1,Observation about Performance & Rewards in Marketing,Sentiment,Reporting,Open,False,False
+252,2025-04-17 07:51:20.521255,Engineering,Capacity,-0.7722322468032338,3,Complaint,0,Complaint about Capacity in Engineering,Sentiment,Reporting,Watching,False,False
+253,2026-01-18 00:26:36.521274,Product,Role Clarity,0.25171454130093884,5,Praise,1,Praise about Role Clarity in Product,Sentiment,Reporting,Open,True,False
+254,2025-11-17 15:42:57.521294,Product,Role Clarity,-0.1972109235392603,5,Observation,1,Observation about Role Clarity in Product,Sentiment,Reporting,Open,True,False
+255,2025-11-01 18:49:40.521313,Operations,Governance,-0.21364281280386613,2,Suggestion,1,Suggestion about Governance in Operations,Function,Policy/Process Review,In Process,True,True
+256,2026-01-13 09:23:55.521332,Operations,Governance,0.09188556731152103,1,Praise,0,Praise about Governance in Operations,Sentiment,Reporting,Open,False,False
+257,2025-07-07 21:01:22.521351,Marketing,Innovation,0.08338480979825887,1,Question,0,Question about Innovation in Marketing,Sentiment,Reporting,Open,False,False
+258,2025-05-04 07:56:08.521370,Marketing,Learning & Capability,0.4195924338581561,4,Complaint,1,Complaint about Learning & Capability in Marketing,Sentiment,Reporting,Open,False,False
+259,2025-06-27 13:13:03.521389,Sales,Leadership & Management,0.907686342413453,1,Question,1,Question about Leadership & Management in Sales,Sentiment,Reporting,Open,False,False
+260,2026-01-26 22:50:40.521408,People,Learning & Capability,0.8068556345293235,4,Complaint,1,Complaint about Learning & Capability in People,Sentiment,Reporting,Open,False,False
+261,2025-04-14 12:38:19.521427,Product,Process,0.22676715075698992,3,Complaint,1,Complaint about Process in Product,Sentiment,Reporting,Open,False,False
+262,2026-02-14 03:21:02.521448,Sales,Collaboration,-0.1597783811595403,1,Observation,0,Observation about Collaboration in Sales,Sentiment,Reporting,Open,False,False
+263,2025-08-13 22:37:31.521467,Operations,Role Clarity,0.4740884126811506,5,Suggestion,0,Suggestion about Role Clarity in Operations,Function,People Review,In Process,True,True
+264,2025-09-21 04:17:04.521487,People,Governance,-1.0,2,Suggestion,1,Suggestion about Governance in People,Function,Validation,Closed,True,False
+265,2025-09-11 15:38:20.521506,Marketing,Performance & Rewards,0.8841491541983859,2,Question,0,Question about Performance & Rewards in Marketing,Sentiment,Reporting,Open,False,False
+266,2025-03-18 00:26:28.521526,Legal,Capacity,-0.2271221375766312,2,Question,0,Question about Capacity in Legal,Sentiment,Reporting,Open,False,False
+267,2026-02-13 08:32:02.521545,Legal,Learning & Capability,-0.009967697622905145,4,Praise,1,Praise about Learning & Capability in Legal,Sentiment,Reporting,Open,False,False
+268,2025-04-26 06:07:57.521564,Sales,Process,0.427450189810355,3,Observation,1,Observation about Process in Sales,Sentiment,Reporting,Open,False,False
+269,2025-11-06 02:55:01.521583,Sales,Learning & Capability,0.48970545041703084,4,Question,1,Question about Learning & Capability in Sales,Sentiment,Reporting,Open,False,False
+270,2025-08-25 23:04:38.521602,Sales,Innovation,-0.09444834389223761,2,Observation,1,Observation about Innovation in Sales,Sentiment,Reporting,Open,False,False
+271,2026-01-21 22:59:46.521621,Marketing,Culture,0.27653663822023966,5,Praise,1,Praise about Culture in Marketing,Sentiment,Reporting,Open,True,False
+272,2026-02-02 16:22:08.521640,Operations,Innovation,-0.3584331101787956,5,Praise,1,Praise about Innovation in Operations,Sentiment,Reporting,Open,True,False
+273,2025-10-28 07:53:21.521659,Engineering,Role Clarity,0.7793399550444914,4,Complaint,1,Complaint about Role Clarity in Engineering,Sentiment,Reporting,Open,False,False
+274,2025-05-02 17:46:01.521678,Sales,Tools & Technology,-0.2833975865230495,4,Praise,1,Praise about Tools & Technology in Sales,Sentiment,Reporting,Open,False,False
+275,2025-12-26 15:27:09.521697,Marketing,Governance,0.26416271710514116,4,Observation,1,Observation about Governance in Marketing,Sentiment,Reporting,Open,False,False
+276,2025-12-21 04:17:37.521715,Finance,Role Clarity,0.12374889841860548,4,Question,1,Question about Role Clarity in Finance,Sentiment,Reporting,Open,False,False
+277,2025-05-16 16:30:18.521734,Operations,Tools & Technology,1.0,2,Question,1,Question about Tools & Technology in Operations,Sentiment,Reporting,Open,False,False
+278,2025-08-19 05:24:44.521753,Legal,Governance,0.37358261212979066,2,Suggestion,1,Suggestion about Governance in Legal,Function,Policy/Process Review,In Process,True,True
+279,2025-06-09 18:10:17.521772,People,Capacity,-0.35041583943304283,3,Praise,0,Praise about Capacity in People,Sentiment,Reporting,Open,False,False
+280,2025-06-04 12:35:47.521791,Operations,Learning & Capability,0.26218137362645527,2,Question,0,Question about Learning & Capability in Operations,Sentiment,Reporting,Open,False,False
+281,2025-11-09 18:56:29.521810,Marketing,Learning & Capability,-0.36745520723889974,3,Praise,0,Praise about Learning & Capability in Marketing,Sentiment,Reporting,Open,False,False
+282,2025-08-09 18:09:29.521829,Operations,Leadership & Management,0.7297468016917608,1,Complaint,0,Complaint about Leadership & Management in Operations,Sentiment,Reporting,Open,False,False
+283,2026-01-23 22:47:21.521848,Finance,Capacity,-0.8426554693809702,3,Complaint,1,Complaint about Capacity in Finance,Sentiment,Reporting,Watching,False,False
+284,2025-10-16 18:08:55.521867,People,Governance,0.19498029301495073,2,Observation,0,Observation about Governance in People,Sentiment,Reporting,Open,False,False
+285,2025-03-03 12:49:17.521886,People,Innovation,0.6020340094424421,3,Question,0,Question about Innovation in People,Sentiment,Reporting,Open,False,False
+286,2026-02-17 06:34:21.521911,Marketing,Leadership & Management,-0.5112176897728831,4,Complaint,1,Complaint about Leadership & Management in Marketing,Sentiment,Reporting,Watching,False,False
+287,2025-09-14 18:19:59.521930,Legal,Learning & Capability,1.0,2,Suggestion,1,Suggestion about Learning & Capability in Legal,Function,People Review,In Process,True,True
+288,2025-11-24 12:23:34.521950,Operations,Collaboration,-0.7497937281014665,3,Complaint,1,Complaint about Collaboration in Operations,Sentiment,Reporting,Watching,False,False
+289,2025-08-16 06:28:47.521969,Legal,Process,-0.6648216511196539,4,Complaint,1,Complaint about Process in Legal,Sentiment,Reporting,Watching,False,False
+290,2025-04-10 01:56:46.521988,Finance,Leadership & Management,-0.16341814653106743,1,Praise,0,Praise about Leadership & Management in Finance,Sentiment,Reporting,Open,False,False
+291,2025-11-23 00:41:41.522007,Legal,Innovation,-0.5948807708660501,3,Observation,0,Observation about Innovation in Legal,Sentiment,Reporting,Watching,False,False
+292,2025-08-04 06:56:36.522027,Legal,Process,0.6065488499895917,5,Praise,1,Praise about Process in Legal,Sentiment,Reporting,Open,True,False
+293,2025-04-06 13:04:56.522047,Legal,Role Clarity,0.07085845681995237,1,Observation,1,Observation about Role Clarity in Legal,Sentiment,Reporting,Open,False,False
+294,2025-10-17 12:38:35.522066,Product,Capacity,-0.3410171915996572,1,Observation,0,Observation about Capacity in Product,Sentiment,Reporting,Open,False,False
+295,2025-05-31 19:41:29.522085,People,Governance,-0.5872449412465692,3,Suggestion,0,Suggestion about Governance in People,Function,Validation,Closed,True,False
+296,2025-04-25 04:21:50.522103,Operations,Innovation,0.18265049651089432,4,Observation,0,Observation about Innovation in Operations,Sentiment,Reporting,Open,False,False
+297,2025-06-27 14:28:00.522122,Sales,Governance,0.7010360736089216,2,Complaint,1,Complaint about Governance in Sales,Sentiment,Reporting,Open,False,False
+298,2026-02-23 04:49:57.522141,Legal,Performance & Rewards,0.13369615703595147,4,Question,0,Question about Performance & Rewards in Legal,Sentiment,Reporting,Open,False,False
+299,2026-02-02 21:19:34.522160,Operations,Culture,0.1608489030980068,2,Suggestion,0,Suggestion about Culture in Operations,Function,People Review,In Process,True,True
+300,2026-01-10 07:00:35.522178,Operations,Performance & Rewards,-0.11257326367501062,1,Praise,1,Praise about Performance & Rewards in Operations,Sentiment,Reporting,Open,False,False
+301,2025-03-10 01:50:51.522197,Marketing,Process,0.09878946102570392,5,Praise,1,Praise about Process in Marketing,Sentiment,Reporting,Open,True,False
+302,2025-12-21 13:46:09.522216,Marketing,Leadership & Management,-0.399769460616342,5,Complaint,1,Complaint about Leadership & Management in Marketing,Sentiment,Reporting,Open,True,False
+303,2025-03-08 20:58:00.522241,Product,Innovation,0.17577397941294443,2,Observation,0,Observation about Innovation in Product,Sentiment,Reporting,Open,False,False
+304,2025-09-27 17:57:08.522260,Legal,Culture,0.7653754161718487,3,Suggestion,1,Suggestion about Culture in Legal,Function,People Review,In Process,True,True
+305,2025-06-21 17:01:37.522279,Operations,Leadership & Management,0.6093809258486583,2,Suggestion,1,Suggestion about Leadership & Management in Operations,Function,People Review,In Process,True,True
+306,2026-02-24 13:01:57.522298,Legal,Leadership & Management,-0.6153877728830405,5,Question,1,Question about Leadership & Management in Legal,Sentiment,Reporting,Watching,True,False
+307,2025-05-10 22:53:23.522317,Sales,Governance,-0.13017024536088062,4,Praise,1,Praise about Governance in Sales,Sentiment,Reporting,Open,False,False
+308,2025-11-30 15:02:28.522336,Finance,Role Clarity,-0.29641396868974473,4,Praise,1,Praise about Role Clarity in Finance,Sentiment,Reporting,Open,False,False
+309,2025-06-09 14:57:49.522355,Sales,Learning & Capability,-0.25366638769427297,4,Observation,0,Observation about Learning & Capability in Sales,Sentiment,Reporting,Open,False,False
+310,2025-10-09 11:07:19.522374,Product,Process,0.270731364102394,5,Complaint,0,Complaint about Process in Product,Sentiment,Reporting,Open,True,False
+311,2025-06-15 23:20:42.522392,Marketing,Process,0.3795775801513234,5,Complaint,1,Complaint about Process in Marketing,Sentiment,Reporting,Open,True,False
+312,2025-03-29 01:04:06.522411,Sales,Learning & Capability,-0.49705311652109635,4,Suggestion,1,Suggestion about Learning & Capability in Sales,Function,People Review,In Process,True,True
+313,2025-11-16 14:30:12.522430,Legal,Role Clarity,-0.015469498577812053,5,Complaint,0,Complaint about Role Clarity in Legal,Sentiment,Reporting,Open,True,False
+314,2025-09-02 02:26:47.522449,Product,Capacity,-1.0,4,Observation,1,Observation about Capacity in Product,Sentiment,Reporting,Watching,False,False
+315,2025-11-18 21:04:59.522467,Operations,Governance,-0.2224728800623358,1,Question,1,Question about Governance in Operations,Sentiment,Reporting,Open,False,False
+316,2025-08-11 03:03:42.522486,People,Capacity,-0.7995682432235064,2,Complaint,0,Complaint about Capacity in People,Sentiment,Reporting,Open,False,False
+317,2025-08-21 15:52:58.522504,Legal,Learning & Capability,-0.20336154152329194,4,Suggestion,1,Suggestion about Learning & Capability in Legal,Function,People Review,In Process,True,True
+318,2025-07-28 22:02:26.522523,Engineering,Process,0.650870644699399,4,Observation,0,Observation about Process in Engineering,Sentiment,Reporting,Open,False,False
+319,2025-09-14 16:32:41.522542,Product,Governance,0.7807555983634263,5,Observation,0,Observation about Governance in Product,Sentiment,Reporting,Open,True,False
+320,2025-10-24 05:46:13.522561,Engineering,Governance,-0.40124636660582363,4,Suggestion,1,Suggestion about Governance in Engineering,Function,Policy/Process Review,In Process,True,True
+321,2025-10-15 19:15:35.522580,Sales,Collaboration,0.649405662423526,4,Suggestion,0,Suggestion about Collaboration in Sales,Function,People Review,In Process,True,True
+322,2025-08-24 17:33:06.522599,Finance,Process,-0.39085626030598436,4,Question,0,Question about Process in Finance,Sentiment,Reporting,Open,False,False
+323,2025-07-06 20:50:29.522617,Legal,Leadership & Management,0.4397962939931829,1,Complaint,1,Complaint about Leadership & Management in Legal,Sentiment,Reporting,Open,False,False
+324,2025-07-20 11:10:08.522636,People,Innovation,0.664097070924529,1,Question,1,Question about Innovation in People,Sentiment,Reporting,Open,False,False
+325,2025-12-01 13:16:29.522655,Sales,Capacity,0.27811500470032996,2,Observation,0,Observation about Capacity in Sales,Sentiment,Reporting,Open,False,False
+326,2025-06-22 16:35:45.522674,Legal,Capacity,0.7278093450405583,4,Complaint,0,Complaint about Capacity in Legal,Sentiment,Reporting,Open,False,False
+327,2025-06-25 15:26:05.522693,People,Tools & Technology,0.8996357875094997,2,Question,0,Question about Tools & Technology in People,Sentiment,Reporting,Open,False,False
+328,2025-09-06 18:20:53.522712,Marketing,Performance & Rewards,0.28972128643363076,4,Observation,1,Observation about Performance & Rewards in Marketing,Sentiment,Reporting,Open,False,False
+329,2025-10-04 17:00:32.522730,Marketing,Governance,0.07384966261338845,5,Suggestion,1,Suggestion about Governance in Marketing,Function,Policy/Process Review,In Process,True,True
+330,2025-12-20 08:36:56.522754,Sales,Role Clarity,0.41878135167918623,5,Praise,0,Praise about Role Clarity in Sales,Sentiment,Reporting,Open,True,False
+331,2025-04-05 06:20:20.522774,Marketing,Culture,-0.4068226780298373,1,Praise,0,Praise about Culture in Marketing,Sentiment,Reporting,Open,False,False
+332,2025-08-03 16:21:17.522793,Operations,Learning & Capability,0.40634471282199774,3,Praise,1,Praise about Learning & Capability in Operations,Sentiment,Reporting,Open,False,False
+333,2025-02-27 05:02:40.522814,Finance,Governance,0.28895525689575496,3,Suggestion,0,Suggestion about Governance in Finance,Function,Validation,Closed,True,False
+334,2025-10-08 03:11:15.522841,Sales,Leadership & Management,-0.3111890974954015,2,Complaint,0,Complaint about Leadership & Management in Sales,Sentiment,Reporting,Open,False,False
+335,2026-01-13 16:32:53.522866,Product,Learning & Capability,0.23904499831372794,3,Question,0,Question about Learning & Capability in Product,Sentiment,Reporting,Open,False,False
+336,2025-09-04 20:41:31.522887,Legal,Performance & Rewards,-0.6467678717968318,5,Suggestion,0,Suggestion about Performance & Rewards in Legal,Function,People Review,In Process,True,True
+337,2025-08-03 20:35:56.522908,Legal,Leadership & Management,0.5389769475528788,4,Praise,0,Praise about Leadership & Management in Legal,Sentiment,Reporting,Open,False,False
+338,2025-12-23 18:17:21.522929,Operations,Process,0.41349719455865885,4,Suggestion,1,Suggestion about Process in Operations,Function,Policy/Process Review,In Process,True,True
+339,2025-07-04 07:01:21.522949,Sales,Process,0.39890133652470827,3,Observation,0,Observation about Process in Sales,Sentiment,Reporting,Open,False,False
+340,2026-01-09 14:41:43.522970,Finance,Innovation,0.2945284737029338,3,Complaint,0,Complaint about Innovation in Finance,Sentiment,Reporting,Open,False,False
+341,2025-09-10 06:04:06.522990,Marketing,Tools & Technology,0.16936025143481767,5,Complaint,1,Complaint about Tools & Technology in Marketing,Sentiment,Reporting,Open,True,False
+342,2025-06-23 20:44:26.523011,Product,Leadership & Management,-0.7222787217623986,4,Observation,1,Observation about Leadership & Management in Product,Sentiment,Reporting,Watching,False,False
+343,2025-06-17 08:31:38.523032,Finance,Performance & Rewards,-0.8306397466388838,4,Praise,0,Praise about Performance & Rewards in Finance,Sentiment,Reporting,Watching,False,False
+344,2025-03-26 19:33:57.523053,Operations,Capacity,-0.15317673038565474,3,Question,1,Question about Capacity in Operations,Sentiment,Reporting,Open,False,False
+345,2025-10-11 08:13:44.523074,Marketing,Tools & Technology,0.032796922841589304,5,Praise,1,Praise about Tools & Technology in Marketing,Sentiment,Reporting,Open,True,False
+346,2025-07-09 05:47:16.523094,Finance,Innovation,-1.0,4,Question,1,Question about Innovation in Finance,Sentiment,Reporting,Watching,False,False
+347,2025-04-15 18:18:41.523115,Sales,Innovation,0.40046831981473113,1,Suggestion,1,Suggestion about Innovation in Sales,Function,Product Review,In Process,True,True
+348,2026-01-09 21:24:17.523136,Engineering,Leadership & Management,0.0949239181062321,1,Praise,1,Praise about Leadership & Management in Engineering,Sentiment,Reporting,Open,False,False
+349,2025-11-02 10:19:24.523157,Engineering,Process,0.28837903309653584,4,Suggestion,1,Suggestion about Process in Engineering,Function,Policy/Process Review,In Process,True,True
+350,2025-04-05 08:39:31.523177,Legal,Learning & Capability,-0.24442471089313705,2,Suggestion,0,Suggestion about Learning & Capability in Legal,Function,Validation,Closed,True,False
+351,2025-05-04 01:51:01.523198,Marketing,Process,-0.5598087166445056,5,Question,1,Question about Process in Marketing,Sentiment,Reporting,Watching,True,False
+352,2026-01-11 16:53:11.523219,Finance,Collaboration,-0.23301825093412112,3,Observation,1,Observation about Collaboration in Finance,Sentiment,Reporting,Open,False,False
+353,2025-07-20 17:28:22.523240,Product,Governance,-0.7973515336333977,5,Complaint,1,Complaint about Governance in Product,Sentiment,Reporting,Watching,True,False
+354,2025-07-23 07:11:07.523261,Marketing,Performance & Rewards,0.1028431874803421,2,Suggestion,1,Suggestion about Performance & Rewards in Marketing,Function,People Review,In Process,True,True
+355,2025-03-18 16:15:07.523281,Product,Process,-0.18922702592322982,1,Praise,0,Praise about Process in Product,Sentiment,Reporting,Open,False,False
+356,2025-09-08 09:32:30.523302,Sales,Innovation,0.17674145297433339,4,Complaint,0,Complaint about Innovation in Sales,Sentiment,Reporting,Open,False,False
+357,2025-05-16 16:40:40.523323,Sales,Collaboration,0.06075250570085776,4,Complaint,0,Complaint about Collaboration in Sales,Sentiment,Reporting,Open,False,False
+358,2025-03-06 11:33:58.523343,Sales,Performance & Rewards,-0.24010118707350936,1,Observation,1,Observation about Performance & Rewards in Sales,Sentiment,Reporting,Open,False,False
+359,2025-07-10 13:30:44.523364,Operations,Performance & Rewards,0.3570430564762655,3,Question,0,Question about Performance & Rewards in Operations,Sentiment,Reporting,Open,False,False
+360,2025-11-26 07:29:37.523385,People,Culture,0.3684219485462167,2,Suggestion,1,Suggestion about Culture in People,Function,Validation,Open,True,False
+361,2026-01-14 03:28:10.523405,Legal,Role Clarity,-0.1406637785591067,5,Complaint,1,Complaint about Role Clarity in Legal,Sentiment,Reporting,Open,True,False
+362,2025-08-29 07:57:43.523425,Legal,Leadership & Management,0.204172582197389,5,Suggestion,1,Suggestion about Leadership & Management in Legal,Function,Validation,Closed,True,False
+363,2026-02-08 02:05:06.523445,Legal,Governance,-0.0023497022200862244,3,Suggestion,1,Suggestion about Governance in Legal,Function,Policy/Process Review,In Process,True,True
+364,2025-11-21 23:55:59.523465,Product,Leadership & Management,-0.3036727993827275,1,Question,1,Question about Leadership & Management in Product,Sentiment,Reporting,Open,False,False
+365,2025-07-07 23:25:45.523485,Finance,Capacity,0.814661668309013,4,Complaint,1,Complaint about Capacity in Finance,Sentiment,Reporting,Open,False,False
+366,2025-03-15 12:00:23.523505,Marketing,Governance,-0.41379511032435984,2,Question,1,Question about Governance in Marketing,Sentiment,Reporting,Open,False,False
+367,2025-07-06 16:54:58.523525,Operations,Process,0.04307194152318738,1,Complaint,0,Complaint about Process in Operations,Sentiment,Reporting,Open,False,False
+368,2025-11-06 11:20:50.523546,Legal,Collaboration,0.3095771305025989,4,Suggestion,1,Suggestion about Collaboration in Legal,Function,Validation,Open,True,False
+369,2025-03-29 07:32:38.523572,Engineering,Governance,1.0,5,Praise,1,Praise about Governance in Engineering,Sentiment,Reporting,Open,True,False
+370,2025-10-04 15:29:49.523681,Marketing,Innovation,-0.7230640162800811,5,Praise,1,Praise about Innovation in Marketing,Sentiment,Reporting,Watching,True,False
+371,2025-08-31 06:45:37.523715,Finance,Leadership & Management,0.04749687567815229,2,Praise,1,Praise about Leadership & Management in Finance,Sentiment,Reporting,Open,False,False
+372,2025-05-10 21:35:49.523741,Operations,Leadership & Management,-0.13423413514582272,4,Question,0,Question about Leadership & Management in Operations,Sentiment,Reporting,Open,False,False
+373,2025-06-14 22:53:25.523766,Marketing,Role Clarity,-0.34846987254028583,4,Question,0,Question about Role Clarity in Marketing,Sentiment,Reporting,Open,False,False
+374,2025-07-26 04:55:19.523790,Finance,Collaboration,-0.26364297212011006,4,Praise,1,Praise about Collaboration in Finance,Sentiment,Reporting,Open,False,False
+375,2025-03-28 00:39:02.523819,Finance,Tools & Technology,-0.25616483721115174,1,Complaint,0,Complaint about Tools & Technology in Finance,Sentiment,Reporting,Open,False,False
+376,2026-02-07 19:09:46.523843,Marketing,Capacity,0.41690366957968233,3,Suggestion,0,Suggestion about Capacity in Marketing,Function,People Review,In Process,True,True
+377,2025-09-29 12:30:18.523866,Marketing,Governance,-0.213877843523376,4,Question,0,Question about Governance in Marketing,Sentiment,Reporting,Open,False,False
+378,2025-11-12 16:42:40.523889,Finance,Culture,0.5017492267764323,3,Question,1,Question about Culture in Finance,Sentiment,Reporting,Open,False,False
+379,2025-05-30 06:23:27.523911,Sales,Governance,-0.3139582612990413,5,Observation,1,Observation about Governance in Sales,Sentiment,Reporting,Open,True,False
+380,2025-12-18 11:33:42.523933,Operations,Innovation,-0.4309601890079115,5,Question,0,Question about Innovation in Operations,Sentiment,Reporting,Watching,True,False
+381,2025-10-30 03:15:35.523955,People,Innovation,0.1817729703436799,2,Complaint,0,Complaint about Innovation in People,Sentiment,Reporting,Open,False,False
+382,2025-06-27 01:26:53.523977,Engineering,Leadership & Management,0.08423048813480714,3,Praise,0,Praise about Leadership & Management in Engineering,Sentiment,Reporting,Open,False,False
+383,2025-10-24 13:33:18.524000,Operations,Leadership & Management,0.6587987678039798,5,Complaint,1,Complaint about Leadership & Management in Operations,Sentiment,Reporting,Open,True,False
+384,2025-05-04 19:48:22.524021,Product,Performance & Rewards,-0.22851916793119847,2,Question,0,Question about Performance & Rewards in Product,Sentiment,Reporting,Open,False,False
+385,2025-07-11 14:02:51.524043,Operations,Leadership & Management,-0.15094225259527588,3,Complaint,1,Complaint about Leadership & Management in Operations,Sentiment,Reporting,Open,False,False
+386,2025-10-29 10:15:43.524065,Sales,Process,0.3978515708498711,3,Suggestion,0,Suggestion about Process in Sales,Function,Policy/Process Review,In Process,True,True
+387,2026-02-16 20:30:38.524086,Legal,Capacity,0.3093319687403246,2,Suggestion,1,Suggestion about Capacity in Legal,Function,People Review,In Process,True,True
+388,2025-10-25 13:49:31.524108,Sales,Role Clarity,0.23477958467646368,1,Suggestion,1,Suggestion about Role Clarity in Sales,Function,Validation,Open,True,False
+389,2025-06-09 02:05:59.524130,Sales,Process,-0.503280495543951,5,Suggestion,1,Suggestion about Process in Sales,Function,Policy/Process Review,In Process,True,True
+390,2026-02-11 18:54:16.524151,Marketing,Innovation,0.3618052936144375,5,Complaint,1,Complaint about Innovation in Marketing,Sentiment,Reporting,Open,True,False
+391,2025-10-08 16:57:36.524172,Engineering,Culture,0.33373039081965605,3,Suggestion,0,Suggestion about Culture in Engineering,Function,People Review,In Process,True,True
+392,2025-07-24 02:48:11.524193,Marketing,Innovation,-0.475925237337312,3,Suggestion,1,Suggestion about Innovation in Marketing,Function,Product Review,In Process,True,True
+393,2025-10-09 13:32:53.524215,Legal,Tools & Technology,-0.1518083526538791,2,Question,0,Question about Tools & Technology in Legal,Sentiment,Reporting,Open,False,False
+394,2025-04-30 23:33:29.524236,Engineering,Performance & Rewards,0.421707154698,5,Question,0,Question about Performance & Rewards in Engineering,Sentiment,Reporting,Open,True,False
+395,2025-07-15 06:47:22.524332,People,Collaboration,0.24760647656205606,4,Observation,1,Observation about Collaboration in People,Sentiment,Reporting,Open,False,False
+396,2025-07-28 04:33:17.524360,People,Leadership & Management,-0.009709802943866292,1,Suggestion,0,Suggestion about Leadership & Management in People,Function,People Review,In Process,True,True
+397,2025-04-02 17:33:14.524384,Marketing,Leadership & Management,-0.15158989141713752,4,Suggestion,1,Suggestion about Leadership & Management in Marketing,Function,Validation,Open,True,False
+398,2026-02-25 03:05:02.524406,Operations,Leadership & Management,-0.599052031632109,5,Question,0,Question about Leadership & Management in Operations,Sentiment,Reporting,Watching,True,False
+399,2025-04-24 13:56:39.524427,Engineering,Culture,-0.6365798846212665,2,Observation,1,Observation about Culture in Engineering,Sentiment,Reporting,Open,False,False
+400,2025-05-07 05:53:31.524448,Legal,Innovation,-0.03161172824147947,5,Observation,1,Observation about Innovation in Legal,Sentiment,Reporting,Open,True,False
+401,2025-05-10 10:27:31.524470,Product,Collaboration,-0.7607638266961563,1,Complaint,1,Complaint about Collaboration in Product,Sentiment,Reporting,Open,False,False
+402,2025-04-05 18:05:58.524491,Legal,Role Clarity,-0.9050162016362896,4,Question,0,Question about Role Clarity in Legal,Sentiment,Reporting,Watching,False,False
+403,2026-02-25 19:24:31.524512,Finance,Process,-0.3439669334185889,5,Suggestion,1,Suggestion about Process in Finance,Function,Policy/Process Review,In Process,True,True
+404,2025-09-03 02:34:16.524533,Engineering,Innovation,-0.40574483886676216,4,Praise,1,Praise about Innovation in Engineering,Sentiment,Reporting,Watching,False,False
+405,2026-01-04 08:29:07.524554,Product,Capacity,0.19436006152555435,2,Suggestion,1,Suggestion about Capacity in Product,Function,People Review,In Process,True,True
+406,2025-07-01 14:21:12.524575,Legal,Role Clarity,0.4534288475628675,2,Question,0,Question about Role Clarity in Legal,Sentiment,Reporting,Open,False,False
+407,2025-11-10 00:19:23.524596,Operations,Culture,-0.10774910115993465,3,Praise,1,Praise about Culture in Operations,Sentiment,Reporting,Open,False,False
+408,2025-04-14 23:21:03.524617,Finance,Governance,-0.2813067414143281,5,Praise,0,Praise about Governance in Finance,Sentiment,Reporting,Open,True,False
+409,2025-11-25 20:22:21.524638,Finance,Process,1.0,1,Question,0,Question about Process in Finance,Sentiment,Reporting,Open,False,False
+410,2025-06-09 13:53:20.524659,Product,Governance,0.5422397915365353,1,Complaint,0,Complaint about Governance in Product,Sentiment,Reporting,Open,False,False
+411,2025-10-06 17:49:30.524680,People,Leadership & Management,-0.28876504675377684,5,Question,1,Question about Leadership & Management in People,Sentiment,Reporting,Open,True,False
+412,2025-11-16 13:27:57.524701,Finance,Collaboration,0.09768764217587218,5,Suggestion,0,Suggestion about Collaboration in Finance,Function,People Review,In Process,True,True
+413,2025-05-05 12:31:22.524724,Finance,Governance,0.49623041574726323,4,Suggestion,1,Suggestion about Governance in Finance,Function,Policy/Process Review,In Process,True,True
+414,2025-04-13 00:13:34.524746,Finance,Learning & Capability,0.42074635223542833,1,Observation,1,Observation about Learning & Capability in Finance,Sentiment,Reporting,Open,False,False
+415,2026-01-22 16:12:32.524767,Operations,Learning & Capability,-0.5827213351100098,1,Suggestion,0,Suggestion about Learning & Capability in Operations,Function,People Review,In Process,True,True
+416,2025-09-05 15:06:13.524789,Finance,Role Clarity,0.40931533088994926,1,Praise,0,Praise about Role Clarity in Finance,Sentiment,Reporting,Open,False,False
+417,2025-06-09 00:31:08.524810,Sales,Tools & Technology,-0.6025017605495138,4,Question,0,Question about Tools & Technology in Sales,Sentiment,Reporting,Watching,False,False
+418,2025-10-30 13:18:23.524831,Engineering,Leadership & Management,0.08432733598336384,1,Complaint,0,Complaint about Leadership & Management in Engineering,Sentiment,Reporting,Open,False,False
+419,2026-01-16 12:49:50.524852,Operations,Capacity,0.22097032478470452,3,Question,1,Question about Capacity in Operations,Sentiment,Reporting,Open,False,False
+420,2025-05-13 00:48:58.524873,Engineering,Innovation,0.6657394036988976,5,Suggestion,1,Suggestion about Innovation in Engineering,Function,Product Review,In Process,True,True
+421,2025-05-18 16:04:35.524897,Operations,Governance,0.3809018890433916,1,Praise,0,Praise about Governance in Operations,Sentiment,Reporting,Open,False,False
+422,2025-03-12 17:19:57.524918,Sales,Performance & Rewards,-0.08731892590496508,1,Praise,0,Praise about Performance & Rewards in Sales,Sentiment,Reporting,Open,False,False
+423,2025-05-18 16:40:39.524939,Operations,Innovation,-0.7425110791404489,3,Observation,0,Observation about Innovation in Operations,Sentiment,Reporting,Watching,False,False
+424,2025-07-04 18:10:41.524960,Marketing,Performance & Rewards,-0.7048468847667335,3,Suggestion,1,Suggestion about Performance & Rewards in Marketing,Function,People Review,In Process,True,True
+425,2025-09-12 20:27:52.524981,People,Role Clarity,0.2324904148705411,3,Complaint,0,Complaint about Role Clarity in People,Sentiment,Reporting,Open,False,False
+426,2025-12-08 00:10:31.525002,Product,Governance,0.6985397503666579,4,Observation,1,Observation about Governance in Product,Sentiment,Reporting,Open,False,False
+427,2025-05-18 02:49:00.525023,Legal,Governance,1.0,1,Praise,0,Praise about Governance in Legal,Sentiment,Reporting,Open,False,False
+428,2025-11-14 15:04:24.525044,Product,Capacity,-0.7063342090855136,3,Suggestion,0,Suggestion about Capacity in Product,Function,Validation,Open,True,False
+429,2025-11-02 11:08:40.525065,Legal,Learning & Capability,0.6066582045928209,2,Praise,1,Praise about Learning & Capability in Legal,Sentiment,Reporting,Open,False,False
+430,2025-09-01 21:25:17.525086,People,Innovation,-0.5573738536624446,2,Suggestion,0,Suggestion about Innovation in People,Function,Validation,Open,True,False
+431,2026-01-01 17:55:25.525107,Legal,Culture,0.04883792778013975,2,Suggestion,0,Suggestion about Culture in Legal,Function,Validation,Open,True,False
+432,2025-05-10 18:38:47.525128,Finance,Learning & Capability,0.28045972397061936,5,Observation,1,Observation about Learning & Capability in Finance,Sentiment,Reporting,Open,True,False
+433,2025-06-19 10:05:35.525149,Engineering,Role Clarity,-0.14774015901458018,4,Complaint,1,Complaint about Role Clarity in Engineering,Sentiment,Reporting,Open,False,False
+434,2025-05-03 06:46:19.525171,Finance,Culture,-0.053651072002114414,5,Praise,1,Praise about Culture in Finance,Sentiment,Reporting,Open,True,False
+435,2025-07-23 01:57:25.525192,People,Capacity,0.22385846290513867,5,Observation,1,Observation about Capacity in People,Sentiment,Reporting,Open,True,False
+436,2025-11-27 21:14:57.525213,Engineering,Performance & Rewards,0.27141327965951223,2,Question,1,Question about Performance & Rewards in Engineering,Sentiment,Reporting,Open,False,False
+437,2025-08-21 04:42:45.525235,Product,Learning & Capability,0.4243832513032118,4,Suggestion,1,Suggestion about Learning & Capability in Product,Function,People Review,In Process,True,True
+438,2025-08-25 12:55:00.525256,People,Tools & Technology,-0.2609509070915776,5,Question,1,Question about Tools & Technology in People,Sentiment,Reporting,Open,True,False
+439,2025-09-26 09:49:45.525277,Legal,Process,0.282407074841465,1,Complaint,1,Complaint about Process in Legal,Sentiment,Reporting,Open,False,False
+440,2026-02-13 15:58:37.525298,Finance,Tools & Technology,-0.015072134760425564,4,Suggestion,0,Suggestion about Tools & Technology in Finance,Function,Validation,Closed,True,False
+441,2026-01-27 11:51:36.525319,Finance,Capacity,-0.2838528921093427,3,Observation,1,Observation about Capacity in Finance,Sentiment,Reporting,Open,False,False
+442,2025-08-05 11:58:04.525340,Finance,Process,-0.1808815344184067,1,Praise,1,Praise about Process in Finance,Sentiment,Reporting,Open,False,False
+443,2025-10-04 19:52:34.525361,Product,Process,0.14006069448472447,1,Suggestion,1,Suggestion about Process in Product,Function,Validation,Closed,True,False
+444,2025-03-03 17:48:35.525383,Product,Innovation,0.12763669370678146,2,Praise,0,Praise about Innovation in Product,Sentiment,Reporting,Open,False,False
+445,2025-07-20 16:22:29.525404,Marketing,Tools & Technology,0.5229483577479347,3,Suggestion,1,Suggestion about Tools & Technology in Marketing,Function,Validation,Closed,True,False
+446,2025-09-10 11:58:09.525425,Operations,Governance,0.596978129994139,4,Observation,1,Observation about Governance in Operations,Sentiment,Reporting,Open,False,False
+447,2025-08-05 21:01:55.525446,People,Tools & Technology,-0.16844891279174556,4,Observation,1,Observation about Tools & Technology in People,Sentiment,Reporting,Open,False,False
+448,2025-03-09 21:42:07.525470,People,Tools & Technology,0.29677836114043094,5,Complaint,1,Complaint about Tools & Technology in People,Sentiment,Reporting,Open,True,False
+449,2025-07-02 03:58:08.525491,Marketing,Culture,-1.0,3,Complaint,0,Complaint about Culture in Marketing,Sentiment,Reporting,Watching,False,False
+450,2025-10-30 17:56:42.525511,Finance,Capacity,0.6071348252296396,1,Suggestion,1,Suggestion about Capacity in Finance,Function,People Review,In Process,True,True
+451,2025-03-03 12:43:35.525532,Operations,Governance,-0.43399999976927367,3,Question,0,Question about Governance in Operations,Sentiment,Reporting,Watching,False,False
+452,2025-07-18 02:59:29.525553,People,Learning & Capability,0.23336273379605196,1,Praise,1,Praise about Learning & Capability in People,Sentiment,Reporting,Open,False,False
+453,2025-05-02 03:26:10.525574,Legal,Role Clarity,0.24298114146363553,1,Complaint,0,Complaint about Role Clarity in Legal,Sentiment,Reporting,Open,False,False
+454,2025-06-06 11:37:24.525595,Product,Process,0.23516115526414494,4,Observation,1,Observation about Process in Product,Sentiment,Reporting,Open,False,False
+455,2025-03-29 21:34:01.525615,Finance,Collaboration,-0.927918885475162,3,Complaint,0,Complaint about Collaboration in Finance,Sentiment,Reporting,Watching,False,False
+456,2025-07-15 15:40:58.525637,Operations,Performance & Rewards,-0.06822373167708574,2,Complaint,1,Complaint about Performance & Rewards in Operations,Sentiment,Reporting,Open,False,False
+457,2025-11-09 00:05:13.525658,Sales,Capacity,-0.8089169527791611,3,Suggestion,0,Suggestion about Capacity in Sales,Function,People Review,In Process,True,True
+458,2026-01-03 15:13:11.525678,Finance,Role Clarity,0.3177090151046132,5,Observation,1,Observation about Role Clarity in Finance,Sentiment,Reporting,Open,True,False
+459,2025-09-15 13:24:32.525699,Engineering,Leadership & Management,-0.6196291974267363,1,Question,1,Question about Leadership & Management in Engineering,Sentiment,Reporting,Open,False,False
+460,2025-07-26 17:59:10.525720,Operations,Performance & Rewards,0.10961583387748676,4,Complaint,0,Complaint about Performance & Rewards in Operations,Sentiment,Reporting,Open,False,False
+461,2025-06-01 17:53:45.525741,Marketing,Innovation,0.6446349313578181,5,Praise,0,Praise about Innovation in Marketing,Sentiment,Reporting,Open,True,False
+462,2025-07-24 13:59:45.525762,Legal,Capacity,-0.5615302800722759,2,Complaint,1,Complaint about Capacity in Legal,Sentiment,Reporting,Open,False,False
+463,2025-03-05 13:29:21.525783,Engineering,Leadership & Management,-0.1621124094991452,4,Question,0,Question about Leadership & Management in Engineering,Sentiment,Reporting,Open,False,False
+464,2025-10-05 05:51:20.525804,People,Performance & Rewards,0.3534087146568671,1,Complaint,1,Complaint about Performance & Rewards in People,Sentiment,Reporting,Open,False,False
+465,2025-04-10 13:30:59.525825,Finance,Leadership & Management,0.46512807812097523,5,Praise,0,Praise about Leadership & Management in Finance,Sentiment,Reporting,Open,True,False
+466,2025-11-26 11:14:13.525848,Engineering,Collaboration,0.5348041310789904,4,Praise,1,Praise about Collaboration in Engineering,Sentiment,Reporting,Open,False,False
+467,2026-01-23 07:46:43.525869,Finance,Collaboration,0.09481406165272627,1,Praise,1,Praise about Collaboration in Finance,Sentiment,Reporting,Open,False,False
+468,2025-10-01 18:22:20.525891,Operations,Role Clarity,-1.0,3,Question,1,Question about Role Clarity in Operations,Sentiment,Reporting,Watching,False,False
+469,2025-07-31 22:46:15.525912,Sales,Role Clarity,-0.06713958109315207,5,Observation,1,Observation about Role Clarity in Sales,Sentiment,Reporting,Open,True,False
+470,2025-08-21 01:20:30.525933,People,Tools & Technology,-0.5276935085462438,5,Praise,1,Praise about Tools & Technology in People,Sentiment,Reporting,Watching,True,False
+471,2025-06-21 13:52:57.525954,Finance,Performance & Rewards,0.5292422717651624,1,Observation,1,Observation about Performance & Rewards in Finance,Sentiment,Reporting,Open,False,False
+472,2025-06-03 10:26:03.525975,Product,Leadership & Management,-0.49811602811126016,3,Praise,0,Praise about Leadership & Management in Product,Sentiment,Reporting,Watching,False,False
+473,2025-04-12 19:04:52.525996,Finance,Capacity,-0.030771636940024355,5,Observation,1,Observation about Capacity in Finance,Sentiment,Reporting,Open,True,False
+474,2025-12-31 13:17:51.526017,Legal,Leadership & Management,-0.18529526153622597,1,Praise,1,Praise about Leadership & Management in Legal,Sentiment,Reporting,Open,False,False
+475,2025-08-01 07:51:10.526038,Finance,Capacity,1.0,1,Praise,1,Praise about Capacity in Finance,Sentiment,Reporting,Open,False,False
+476,2025-09-10 22:42:05.526059,Marketing,Learning & Capability,-0.17170554979398372,1,Praise,0,Praise about Learning & Capability in Marketing,Sentiment,Reporting,Open,False,False
+477,2025-12-27 22:26:09.526080,Engineering,Leadership & Management,0.9823475239844542,1,Complaint,1,Complaint about Leadership & Management in Engineering,Sentiment,Reporting,Open,False,False
+478,2025-05-06 13:11:36.526101,Finance,Performance & Rewards,-0.11429995767000929,1,Suggestion,1,Suggestion about Performance & Rewards in Finance,Function,People Review,In Process,True,True
+479,2025-07-05 19:55:56.526122,Product,Tools & Technology,-0.4971746873042561,5,Suggestion,1,Suggestion about Tools & Technology in Product,Function,Validation,Open,True,False
+480,2026-02-22 22:51:56.526143,Product,Performance & Rewards,-0.5904064076544224,4,Question,1,Question about Performance & Rewards in Product,Sentiment,Reporting,Watching,False,False
+481,2025-06-29 13:16:32.526164,Product,Culture,0.557160847334436,5,Complaint,1,Complaint about Culture in Product,Sentiment,Reporting,Open,True,False
+482,2025-06-22 23:11:08.526187,People,Capacity,-0.13047741647962902,5,Question,1,Question about Capacity in People,Sentiment,Reporting,Open,True,False
+483,2025-07-22 07:04:29.526209,Sales,Innovation,-0.6438877226491189,1,Praise,0,Praise about Innovation in Sales,Sentiment,Reporting,Open,False,False
+484,2025-05-19 07:08:10.526229,Finance,Innovation,0.5138388374005158,3,Question,1,Question about Innovation in Finance,Sentiment,Reporting,Open,False,False
+485,2025-12-24 03:39:02.526250,People,Role Clarity,0.06555104534295907,1,Observation,0,Observation about Role Clarity in People,Sentiment,Reporting,Open,False,False
+486,2025-11-03 20:36:30.526270,Legal,Collaboration,0.15603479889748378,2,Praise,1,Praise about Collaboration in Legal,Sentiment,Reporting,Open,False,False
+487,2025-10-22 16:03:21.526291,Sales,Performance & Rewards,0.07496583503169553,4,Complaint,1,Complaint about Performance & Rewards in Sales,Sentiment,Reporting,Open,False,False
+488,2026-02-03 17:36:44.526312,Finance,Tools & Technology,0.010443244147980894,4,Question,0,Question about Tools & Technology in Finance,Sentiment,Reporting,Open,False,False
+489,2025-03-02 10:30:52.526332,Product,Role Clarity,0.11535045285934174,2,Question,1,Question about Role Clarity in Product,Sentiment,Reporting,Open,False,False
+490,2025-11-11 00:02:27.526352,Engineering,Collaboration,0.16285367890659988,4,Praise,1,Praise about Collaboration in Engineering,Sentiment,Reporting,Open,False,False
+491,2025-10-13 08:26:35.526373,People,Innovation,-0.18479276445856851,4,Question,1,Question about Innovation in People,Sentiment,Reporting,Open,False,False
+492,2025-11-27 08:07:38.526392,Marketing,Capacity,0.22480451503591484,4,Praise,0,Praise about Capacity in Marketing,Sentiment,Reporting,Open,False,False
+493,2025-07-11 08:17:54.526412,Marketing,Governance,0.09924265966926604,2,Suggestion,1,Suggestion about Governance in Marketing,Function,Policy/Process Review,In Process,True,True
+494,2025-11-25 22:16:17.526432,Finance,Performance & Rewards,-0.26496888473124464,2,Complaint,0,Complaint about Performance & Rewards in Finance,Sentiment,Reporting,Open,False,False
+495,2025-06-29 20:21:18.526452,Marketing,Collaboration,0.11231289269450974,5,Praise,1,Praise about Collaboration in Marketing,Sentiment,Reporting,Open,True,False
+496,2025-07-07 16:38:26.526473,People,Governance,-0.21462221014933092,1,Praise,1,Praise about Governance in People,Sentiment,Reporting,Open,False,False
+497,2025-12-14 02:21:43.526493,Legal,Culture,0.2942766348853599,2,Question,0,Question about Culture in Legal,Sentiment,Reporting,Open,False,False
+498,2025-04-30 19:55:42.526513,People,Capacity,-0.35831993502612236,2,Complaint,0,Complaint about Capacity in People,Sentiment,Reporting,Open,False,False
+499,2025-10-12 14:02:37.526533,Engineering,Culture,0.07852729070472057,5,Complaint,1,Complaint about Culture in Engineering,Sentiment,Reporting,Open,True,False
